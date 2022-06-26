@@ -1,6 +1,6 @@
 # Lotta Flips
 
-Lottery Fractionalization.
+ETH NY submission - Lottery Fractionalization.
 
 In a recent blog post, the man himself, Vitalik Buterin goes over an interesting idea for degens - explanation is also paraphrased from Dave White.
 
