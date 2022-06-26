@@ -14,6 +14,6 @@ This appeals to degens as this is completely and totally fair and the potential 
 
 # Tech
 
-Built using foundry. Use `foundry install` to get started. We use a commit/reveal scheme for our randomness - more details in the code.
+Built using foundry. Use `foundry install` to get started. We use a commit/reveal scheme for our randomness - more details in the code. Everything related to solidity is in `src/` and everything related to web is in `web`.
 
 Goodnight. So much pain. Didnt have time to optimize gas or clean up code much T_T
