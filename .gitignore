@@ -1,2 +1,9 @@
 cache/
 out/
+.env
+deploy.js
+node_modules/
+.DS_Store
+artifacts/
+broadcast/
+hh-cache/
